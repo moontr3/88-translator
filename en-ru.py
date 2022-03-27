@@ -1,0 +1,1 @@
+from translate import*;input(Translator(from_lang="en",to_lang="ru").translate(input()))
